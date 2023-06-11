@@ -1,0 +1,17 @@
+applications_user:
+- air_mouse:
+    description: Flipper Air Mouse
+    repo: https://github.com/ginkage/FlippAirMouse
+    branch: v0.0.4
+- analog_clock:
+    description: "Analog Clock app for Flipper Zero"
+    repo: https://github.com/scrolltex/flipper_analog_clock
+    branch: master
+- barcode_app:
+    description: A barcode generator for the Flipper Zero that supports UPC-A, EAN-8, EAN-13, Code-39, Codabar, and Code-128[1]
+    repo: https://github.com/Kingal1337/flipper-barcode-generator
+    branch: barcode-1.2-e58df59
+- bc_scanner:
+    description: Bar code scanner emulator
+    repo: https://github.com/polarikus/flipper-zero_bc_scanner_emulator
+    branch: v0.2.2
